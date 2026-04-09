@@ -2,15 +2,15 @@
 
 ## Objetivo
 
-{{DESCREVER_OBJETIVO_DOS_EXERCICIOS}}
+Aprender a manipular diretórios e arquivos utilizando `fs/promises`.
 
 ## Lista de exercícios
 
-1. {{EXERCICIO_1}}
-2. {{EXERCICIO_2}}
-3. {{EXERCICIO_3}}
+1. Criar uma pasta automaticamente.
+2. Listar todos os arquivos de um diretório.
+3. Renomear um arquivo existente.
 
 ## Critérios de conclusão
 
-- {{CRITERIO_1}}
-- {{CRITERIO_2}}
+- Uso correto das funções de diretório
+- Código organizado e legível

@@ -2,19 +2,19 @@
 
 ## Nome do projeto
 
-{{NOME_DO_PROJETO}}
+Organizador de Arquivos
 
 ## Objetivo
 
-{{OBJETIVO_DO_PROJETO}}
+Desenvolver um script que organiza arquivos automaticamente em pastas com base em seus tipos.
 
 ## Requisitos
 
-- {{REQUISITO_1}}
-- {{REQUISITO_2}}
-- {{REQUISITO_3}}
+- Ler arquivos de um diretório específico
+- Criar pastas automaticamente conforme o tipo de arquivo
+- Mover arquivos para suas respectivas pastas
 
 ## Entregáveis
 
-- {{ENTREGAVEL_1}}
-- {{ENTREGAVEL_2}}
+- Script funcional de organização de arquivos
+- Estrutura de pastas criada automaticamente

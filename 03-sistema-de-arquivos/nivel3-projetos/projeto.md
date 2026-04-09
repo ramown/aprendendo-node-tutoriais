@@ -2,19 +2,19 @@
 
 ## Nome do projeto
 
-{{NOME_DO_PROJETO}}
+Gerenciador de Tarefas com JSON
 
 ## Objetivo
 
-{{OBJETIVO_DO_PROJETO}}
+Criar um sistema simples de gerenciamento de tarefas utilizando um arquivo JSON como armazenamento.
 
 ## Requisitos
 
-- {{REQUISITO_1}}
-- {{REQUISITO_2}}
-- {{REQUISITO_3}}
+- Adicionar novas tarefas
+- Listar tarefas existentes
+- Remover tarefas
 
 ## Entregáveis
 
-- {{ENTREGAVEL_1}}
-- {{ENTREGAVEL_2}}
+- Script funcional de gerenciamento de tarefas
+- Arquivo JSON utilizado como base de dados

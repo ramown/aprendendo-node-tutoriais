@@ -2,19 +2,19 @@
 
 ## Nome do projeto
 
-{{NOME_DO_PROJETO}}
+Diário de Estudos em Arquivo
 
 ## Objetivo
 
-{{OBJETIVO_DO_PROJETO}}
+Criar um sistema simples que permita registrar e consultar entradas de texto em um arquivo local, simulando um diário persistente.
 
 ## Requisitos
 
-- {{REQUISITO_1}}
-- {{REQUISITO_2}}
-- {{REQUISITO_3}}
+- Criar um arquivo caso ele não exista
+- Adicionar novas entradas ao arquivo sem sobrescrever
+- Ler e exibir todo o conteúdo armazenado
 
 ## Entregáveis
 
-- {{ENTREGAVEL_1}}
-- {{ENTREGAVEL_2}}
+- Script funcional executável via Node.js
+- Arquivo `.txt` contendo os registros persistidos

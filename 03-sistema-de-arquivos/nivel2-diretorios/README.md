@@ -1,25 +1,39 @@
-# Nível 2 - Diretórios
+# Nível 2 - Manipulação de Diretórios
 
-## Objetivos
+## 🎯 Objetivos
 
-- {OBJETIVO_1}
-- {OBJETIVO_2}
+- Criar e remover diretórios
+- Listar arquivos de uma pasta
+- Identificar tipos de arquivos
+- Renomear e mover arquivos
 
-## Pré-requisitos
+---
 
-- {PRE_REQUISITO_1}
-- {PRE_REQUISITO_2}
+## 📚 Tópicos
 
-## Tópicos
+- mkdir
+- readdir
+- stat
+- rename
+- unlink / rm
+- verificação de arquivos vs diretórios
 
-- {TOPICO_1}
-- {TOPICO_2}
-- {TOPICO_3}
+---
 
-## Exercícios
+## 🧠 Ao final você será capaz de
 
-Ver arquivo [exercicios.md](./exercicios.md).
+- Organizar arquivos automaticamente
+- Criar scripts de automação
+- Manipular estruturas de pastas
 
-## Projeto
+---
 
-Ver arquivo [projeto.md](./projeto.md).
+## 🧪 Exercícios
+
+Ver arquivo [exercicios.md](./exercicios.md)
+
+---
+
+## 🚀 Projeto
+
+Ver arquivo [projeto.md](./projeto.md)
