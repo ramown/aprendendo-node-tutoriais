@@ -9,7 +9,7 @@
 ## Instalação inicial
 
 ```bash
-git clone {{REPO_URL}}
+git clone https://github.com/ramown/aprendendo-node-tutoriais.git
 cd aprendendo-node-tutoriais
 npm install
 ```

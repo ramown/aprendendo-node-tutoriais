@@ -19,6 +19,14 @@
     "estudos",
     "aprendizado"
   ],
-  "author": "{{AUTOR}}",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramown/aprendendo-node-tutoriais.git"
+  },
+  "homepage": "https://github.com/ramown/aprendendo-node-tutoriais",
+  "bugs": {
+    "url": "https://github.com/ramown/aprendendo-node-tutoriais/issues"
+  },
+  "author": "EMMANUEL RAMON",
   "license": "MIT"
 }
