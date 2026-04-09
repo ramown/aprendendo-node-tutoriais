@@ -1,0 +1,24 @@
+{
+  "name": "aprendendo-node-tutoriais",
+  "version": "0.1.0",
+  "description": "Repositório de estudos de Node.js com tutoriais progressivos, desafios semanais e mini-projetos.",
+  "private": true,
+  "main": "scripts/menu-interativo.js",
+  "scripts": {
+    "start": "node scripts/menu-interativo.js",
+    "dev": "node scripts/menu-interativo.js",
+    "test": "echo \"Sem testes configurados ainda\"",
+    "lint": "echo \"Sem lint configurado ainda\"",
+    "new-tutorial": "echo \"Criar automação para novo tutorial futuramente\""
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "backend",
+    "tutoriais",
+    "estudos",
+    "aprendizado"
+  ],
+  "author": "{{AUTOR}}",
+  "license": "MIT"
+}
